@@ -1,0 +1,10 @@
+.headin{
+    color: darkblue;
+}
+
+#para{
+    border: 2px solid white;
+    color: white;
+    margin:50px;
+    padding: 50px;
+}

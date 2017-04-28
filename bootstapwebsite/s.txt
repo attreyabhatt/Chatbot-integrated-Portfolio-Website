@@ -1,0 +1,6 @@
+<!-- 4 types of screens
+1) xs - mobile devices
+2) sm - tablets
+3) medium - laptop screens
+4) large - very large screens
+-->
